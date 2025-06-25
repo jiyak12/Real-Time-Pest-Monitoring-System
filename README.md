@@ -20,7 +20,7 @@ This project presents an approach to optimize pest monitoring systems by integra
 ## 📂 Project Structure
 
 - `optimising real time pest monitoring system.ipynb`: Main notebook for preprocessing, feature extraction, model training, and classification.
-- Image data (not included in this repo) should be structured into labeled directories for training and validation.
+- `https://www.kaggle.com/datasets/vencerlanz09/agricultural-pests-image-dataset` : Dataset used taken from Kaggle(file not attached as it exceeds the size limit)
 
 ## 🚀 Features
 
